@@ -8,9 +8,15 @@
     "CLOCK_PORT": "wb_clk_i",
     "CLOCK_NET": "spm.clk",
     "DIODE_INSERTION_STRATEGY": 3,
-    "RT_MAX_LAYER": "met4",
+    "RT_MAX_LAYER": "met3",
     "FP_SIZING": "absolute",
     "SYNTH_USE_PG_PINS_DEFINES": "USE_POWER_PINS",
     "DESIGN_IS_CORE": 1,
-    "DIE_AREA": "0 0 600 600"
+    "DIE_AREA": "0 0 520 520",
+    "DRT_MAX_LAYER": "met3",
+    "FP_PDN_UPPER_LAYER": "met2",
+    "FP_PDN_LOWER_LAYER": "met2",
+    "FP_PDN_CHECK_NODES": 0,
+    "RUN_IRDROP_REPORT": 0,
+    "MAGIC_DEF_LABELS": 0
 }
