@@ -9,5 +9,6 @@
   "type": "hard",
   "status": "silicon",
   "width": "0.25",
-  "height": "0.2"
+  "height": "0.2",
+  "technology": "sky130"
 }
