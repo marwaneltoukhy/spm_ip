@@ -3,12 +3,18 @@
   "repo": "github.com/marwaneltoukhy/spm_ip",
   "author": "efabless",
   "email": "efabless@efabless.com",
-  "version": "v1.2",
+  "version": "v1.1",
   "date": "10-19-2022",
   "category": "digital",
+  "tag": [
+    "BUS"
+  ],
   "type": "hard",
-  "status": "silicon",
+  "status": "SI_validated",
   "width": "0.25",
   "height": "0.2",
-  "technology": "sky130"
+  "technology": "sky130",
+  "cell_count": 200,
+  "clk_freq": 10,
+  "license": "public"
 }
